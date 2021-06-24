@@ -8,6 +8,11 @@ Currently majoring in Intelligent Systems at Kwangwoon University School of Robo
 
 Here are some ideas to get you started:
 
+# add research interest
+# add CV, Mail adress
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
