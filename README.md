@@ -1,4 +1,6 @@
-### Hi there 👋
+### Nice to see you 👋
+
+I am SeokWon Choi who is interested in SLAM and Vision related to autonomous driving
 
 <!--
 **csw609/csw609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
