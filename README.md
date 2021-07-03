@@ -2,7 +2,7 @@
 ***
 I am SeokWon Choi who is interested in SLAM and Vision related to autonomous driving  
 Currently majoring in Intelligent Systems at Kwangwoon University School of Robotics.
-<div align=center>c
+<div align=center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csw609)](https://github.com/anuraghazra/github-readme-stats)
 <div align=center>
 <!--
