@@ -1,6 +1,12 @@
 ### Nice to see you 👋
 ***
-I am SeokWon Choi who is interested in SLAM and Vision related to autonomous driving  
+I am SeokWon Choi  
+I'm interested in 
+ - SLAM
+ - Vision
+ - Autonomous driving
+ - deepLearning
+ ***
 Currently majoring in Intelligent Systems at Kwangwoon University School of Robotics.
 <div align=center>
   
