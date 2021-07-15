@@ -1,13 +1,14 @@
 ### Nice to see you 👋
 ***
 I am SeokWon Choi  
+Currently majoring in Intelligent Systems at Kwangwoon University School of Robotics.  
 I'm interested in 
  - SLAM
  - Computer Vision
  - Autonomous driving
  - deepLearning
  ***
-Currently majoring in Intelligent Systems at Kwangwoon University School of Robotics.
+
 <div align=center>
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=csw609)](https://github.com/anuraghazra/github-readme-stats)
