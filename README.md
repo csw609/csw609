@@ -3,7 +3,7 @@
 I am SeokWon Choi  
 I'm interested in 
  - SLAM
- - Vision
+ - Computer Vision
  - Autonomous driving
  - deepLearning
  ***
