@@ -6,7 +6,7 @@ I'm interested in
  - SLAM
  - Computer Vision
  - Autonomous driving
- - deepLearning
+ - DeepLearning
  ***
 
 <div align=center>
