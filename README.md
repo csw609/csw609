@@ -1,8 +1,8 @@
-### Nice to see you 👋
+## Nice to see you 👋
 ***
-I am SeokWon Choi  
-Currently majoring in Intelligent Systems at Kwangwoon University School of Robotics.  
-I'm interested in 
+###  I am SeokWon Choi  
+### Currently majoring in Intelligent Systems at Kwangwoon University School of Robotics.  
+#### I'm interested in 
  - SLAM
  - Computer Vision
  - Autonomous driving
