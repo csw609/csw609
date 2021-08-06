@@ -2,11 +2,11 @@
 ***
 ###  I am SeokWon Choi  
 ### Currently majoring in Intelligent Systems at Kwangwoon University School of Robotics.  
-####🚀 I'm interested in 
- 🌏 SLAM
- 📷 Computer Vision
- :car: Autonomous driving
- 💻 DeepLearning
+####🚀 I'm interested in  
+ 🌏 SLAM  
+ 📷 Computer Vision  
+ :car: Autonomous driving  
+ 💻 DeepLearning  
  ***
 
 <div align=center>
