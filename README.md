@@ -8,10 +8,15 @@
  🚗 Autonomous driving  
  💻 DeepLearning  
  ***
- <div align=center>
+ <div align=center>  
+ 
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/csw609/SeokWonChoi_CV/blob/main/SeokWonChoi_CV_210804.pdf)
-<div align=center>
   </div>
+  
+ <div align=center>
+
+ 
+ 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=csw609)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
