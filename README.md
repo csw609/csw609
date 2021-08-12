@@ -8,7 +8,7 @@
  > 🚗 Autonomous driving  
  > 💻 DeepLearning  
 
-## 🔍 Information
+### 🔍 Information
  
 > [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/csw609/SeokWonChoi_CV/blob/main/SeokWonChoi_CV_210804.pdf) 
 
