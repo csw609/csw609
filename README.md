@@ -4,7 +4,6 @@
 #### 🚀 I'm interested in  
  > 🌏 SLAM  
  > 📷 Computer Vision  
- > 🚗 Autonomous driving  
  > 💻 DeepLearning  
 
 <div align=center>  
