@@ -10,7 +10,7 @@
  
 ### 🔍 Information  
 
-[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/csw609/SeokWonChoi_CV/blob/main/CV_%EC%B5%9C%EC%84%9D%EC%9B%90_211004.pdf.pdf) 
+[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/csw609/SeokWonChoi_CV/blob/main/CV_최석원_211004.pdf.pdf.pdf) 
 
 </div>  
 
