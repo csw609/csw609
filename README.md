@@ -1,4 +1,4 @@
-## Nice to see you 👋 I am SeokWon Choi  😄
+## Nice to meet you 👋 I am SeokWon Choi  😄
 
 ### Currently majoring in Intelligent Systems at Kwangwoon University School of Robotics.  
 ### 🚀 I'm interested in  
