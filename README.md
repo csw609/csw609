@@ -2,9 +2,9 @@
 # Nice to meet you 👋 I am SeokWon Choi  😄
 
 ## 🌱 Interest
- >- **SLAM**  
- >- **Computer Vision**  
- >- **DeepLearning**  
+ > **SLAM**  
+ > **Computer Vision**  
+ > **Deep Learning**  
  
 ## :trophy: Tech Stack
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
