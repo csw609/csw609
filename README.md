@@ -2,7 +2,7 @@
 # Nice to meet you 👋 I am SeokWon Choi  😄
 
 ## 🌱 Interest
- > *SLAM*  
+ > **SLAM**  
  > **Computer Vision**  
  > **Deep Learning**  
  
