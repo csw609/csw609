@@ -22,8 +22,8 @@
 ## :pushpin: More about me
 
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/csw609/SeokWonChoi_CV/blob/main/2022-02-25-csw.pdf) 
- [![CV](http://img.shields.io/badge/-Blog-Brightgreen?style=flat-square&link=https://davinci-ai.tistory.com/)](https://csw609.tistory.com/)
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:csw2883@gmail.com)](mailto:csw2883@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:csw2883@gmail.com)](mailto:csw2883@gmail.com)  
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?style=flat-square&name=Blog&theme=blue)](https://csw609.tistory.com/)
 </div>  
   
  <div align=center>
