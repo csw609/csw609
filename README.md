@@ -2,8 +2,8 @@
 # Nice to meet you 👋 I am SeokWon Choi  😄 
 
 ## 🌱 Interest
- > **SLAM**  
- > **Computer Vision**  
+ > **3D Vision**  
+ > **LiDAR**  
  > **Deep Learning**  
  
 ## :trophy: Tech Stack
