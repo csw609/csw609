@@ -2,7 +2,7 @@
 # Nice to meet you 👋 I am SeokWon Choi  😄 
 
 ## 🌱 Interest
- > **3D Vision**  
+ > **3D Computer Vision**  
  > **LiDAR**  
  > **Deep Learning**  
  
